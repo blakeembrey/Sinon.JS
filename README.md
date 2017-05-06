@@ -1,5 +1,7 @@
 # Sinon.JS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/Sinon.JS.svg)](https://greenkeeper.io/)
+
 [![Build status](https://secure.travis-ci.org/cjohansen/Sinon.JS.png?branch=master)](http://travis-ci.org/cjohansen/Sinon.JS)
 
 Standalone and test framework agnostic JavaScript test spies, stubs and mocks.

@@ -28,7 +28,7 @@
         "buster-core": ">=0.6.4",
         "buster-assertions": "~0.10",
         "buster-evented-logger": "~0.4",
-        "buster-test": "~0.5",
+        "buster-test": "~0.7.14",
         "http-server": "*"
     },
     "main": "./lib/sinon.js",
